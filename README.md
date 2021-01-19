@@ -1,6 +1,5 @@
-# machine-learning-challenge
 
-# F1 ETL Process
+# Machine Learning 
 ## Contributors
 Roberto Gonzalez - roberto.gonzalez.vallejo@gmail.com [![GitHub](social_icons/gthb.png)](https://github.com/roberto-g-v/)  [![Linkedin](social_icons/lkdin.png)](https://www.linkedin.com/in/roberto-gonzalez-vallejo-6ba894144/) [![Twiter](social_icons/twtr.png)](https://twitter.com/RobertoGlezV)  
 
@@ -42,4 +41,6 @@ Random Forest Results:
 <br>
 
 2. What's the distribution of best socre?
+
+# machine-learning-challenge copyrights 2021
 <br>
