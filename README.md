@@ -42,7 +42,7 @@ Results Scores for Train and test had and accuracy of 0.84 which means 84/100 we
 <br>
 
 1. What does the results for Random Forest mean?
-The default for model result was 1.0 and the default of max_depth is None. This combination allows your DecisionTreeClassifier to grow until there is a single data point at each leaf. Since I am having 100% accuracy, I would assume a duplicates in your train and test splits or it had to do with overfit my training data.
+The default for model result was 1.0 and the default of max_depth is None. This combination allows the DecisionTreeClassifier to grow until there is a single data point at each leaf. Since I am having 100% accuracy, I would assume either duplicates in your train and test splits or an overfit in my training data.
 
 # machine-learning-challenge copyrights 2021
 <br>
